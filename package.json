@@ -1,0 +1,17 @@
+{
+    "name": "breadcrumbs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server/index.js"
+    },
+  
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.2.3",
+        "express": "^4.18.2"
+    }
+}

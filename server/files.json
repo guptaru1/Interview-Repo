@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "type": "folder",
+    "items": [
+        {
+            "name": "home",
+            "type": "folder",
+            "items": [
+                {
+                "name": "myname",
+                "type": "folder",
+                "items" : [
+                
+                    {
+                        "name": "filea.txt",
+                        "type": "file"
+                    },
+                    {
+                        "name": "fileb.txt",
+                        "type": "file"
+                    },
+                    {
+                        "name": "projects",
+                        "type": "folder",
+                        "items": [
+                            {
+                                "name" : "mysupersecretproject",
+                                "type" : "folder",
+                                "items" : [
+                                    {
+                                        
+                                            "name": "mysupersecretfile",
+                                            "type": "file"
+                                    }
+                                ]
+
+                            }
+                        ]
+                    }]
+                }]
+            }]
+                
+}
+
+
+
+       
